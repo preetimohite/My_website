@@ -27,7 +27,7 @@ TGT Computer Studies Teacher at **Podar International School, Sara City**.
 
 ## Live Website
 
-[Click here to view my website!](https://github.com/preetimohite/My_website/blob/main/index1.html)  
+[Click here to view my website!](https://github.com/preetimohite/My_website/docs/index.html)  
 
 ---
 
